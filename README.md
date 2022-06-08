@@ -25,15 +25,15 @@ Here are some screenshots from running the application:
 
 ## Create the KaseiCoin token contract
 
-![Create the KaseiCoin token contract](Images/2.png)
+![Create the KaseiCoin token contract](./Images/2.png
 
 ## Create the KaseiCoin crowdsale contract
 
-![Create the KaseiCoin crowdsale contract](Images/3.png)
+![Create the KaseiCoin crowdsale contract](./Images/3.png
 
 ## Create the KaseiCoin deployer contract
 
-![Create the KaseiCoin deployer contract](Images/4.png)
+![Create the KaseiCoin deployer contract](./Images/4.png
 
 ## Demo
 
@@ -41,18 +41,18 @@ Here are some screenshots from running the application:
 
 ### Metamask accounts
 
-![Metamask](Images/6a.png)
-![Metamask](Images/6b.png)
+![Metamask](./Images/6a.png
+![Metamask](./Images/6b.png)
 
 ### Ganache updated after deployed
 
-![Ganache updated after deployed](Images/7.png)
+![Ganache updated after deployed](./Images/7.png)
 
 ### Deployed and Run Transaction
 
-![Deployed and Run Transaction](Images/8.png)
-![Deployed and Run Transaction](Images/9.png)
-![Deployed and Run Transaction](Images/10.png)
+![Deployed and Run Transaction](./Images/8.png)
+![Deployed and Run Transaction](./Images/9.png)
+![Deployed and Run Transaction](./Images/10.png)
 
 #
 
